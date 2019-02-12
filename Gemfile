@@ -60,3 +60,5 @@ gem 'devise', '~> 4.2'
 
 gem 'bootstrap', '~> 4.3.0'
 gem 'jquery-rails'
+
+gem 'alevans_view_tool', git: 'https://github.com/unleashalicia/alevans_view_tool'

@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/unleashalicia/alevans_view_tool
+  revision: 938a45b83cb1e5f2d129bccfdd0b60893595d07b
+  specs:
+    alevans_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -210,6 +216,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  alevans_view_tool!
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.3.0)
   byebug
