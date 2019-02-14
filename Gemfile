@@ -57,8 +57,12 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.2.0'
 gem 'devise', '~> 4.2'
 
-
+# Bootstrap gems
 gem 'bootstrap', '~> 4.3.0'
 gem 'jquery-rails'
 
+# For copyright info
 gem 'alevans_view_tool', git: 'https://github.com/unleashalicia/alevans_view_tool'
+
+# Authorization
+gem 'petergate', '~> 2.0', '>= 2.0.1'
