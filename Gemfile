@@ -67,4 +67,8 @@ gem 'alevans_view_tool', git: 'https://github.com/unleashalicia/alevans_view_too
 # Authorization
 gem 'petergate', '~> 2.0', '>= 2.0.1'
 
+# Favicons
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
+
+# Pagination
+gem 'kaminari', '~> 1.1', '>= 1.1.1'
