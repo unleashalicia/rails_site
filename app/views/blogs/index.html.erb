@@ -2,8 +2,8 @@
   <h1>My Blog</h1>
   <hr>
   <%= link_to 'Write New Blog', new_blog_path if logged_in?(:site_admin) %>
-
-  <%= paginate @blogs %>
+  <br>
+  <br>
 
   <%= render @blogs %>
 
